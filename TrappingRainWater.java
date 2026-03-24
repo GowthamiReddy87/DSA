@@ -2,7 +2,7 @@ public class TrappingRainWater {
 
     public static void main(String[] args) {
 
-        int[] height = {4,2,0,3,2,5};
+        int[] height = {6,2,0,3,2,5};
 
         int left = 0;
         int right = height.length - 1;
